@@ -1,0 +1,5 @@
+print("About Me")
+person_of_interest = "Kyler"
+name = input("Enter your name here: ")
+age = input("Enter your age: ")
+print("Hello, " + name +"!")
